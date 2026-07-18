@@ -11,7 +11,7 @@
   <img src="./revenant_banner.png" alt="Revenant banner" width="100%">
 </p>
 
-> Credits: **ItzHosseinYc** — project owner & developer · **Claude (Anthropic)** — banner design, README, and documentation
+> Credits: **ItzHosseinYc** — project owner & developer · **Claude (Anthropic)** — banner design,and documentation
 
 A one-click desktop VPN panel built for networks that fight back. Press **Connect** — Revenant handles route discovery, tunnel setup, and everything in between, so you never touch a command line.
 
